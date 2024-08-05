@@ -1,4 +1,4 @@
-This is a Project work undertaken in context of partial fulfilment of BCA. We have tried our best to make the Phone Number Tracking System using Python.
+This is a Project work undertaken in context of partial fulfilment of BCA. I have tried our best to make the Phone Number Tracking System using Python.
 In today’s environment, a mobile has become one of the important necessities. 
 If a person is grabbed in problem due to false or fraud calls by others again and again then our system is helpful to solve this problem by tracking the related phone number which includes phone number location country name, time zone and service provider of that number. 
 Here a phone number tracking system has developed without purchasing and using extra devices and no need to pay for this service. 
